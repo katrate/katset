@@ -1,0 +1,23 @@
+# downloads & build artifacts
+.cache/
+sources/
+*.iso
+*.img
+*.qcow2
+*.vdi
+*.vmdk
+
+# logs
+*.log
+
+# LFS book binaries (reference PDF is large; wget-list is committed)
+docs/book/*.pdf
+docs/book/*.html
+
+# python
+__pycache__/
+*.pyc
+
+# editors
+.vscode/
+.idea/
