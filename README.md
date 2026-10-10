@@ -6,6 +6,7 @@ desktop: the **KATSET shell** (design: `docs/katset-design.md`).
 
 > **Name:** KATSET OS v1.0.0 — *"Better days ahead."*
 > **Target machine:** HP Pavilion 14-ec0xxx (Ryzen 5 5500U, Radeon Vega 7)
+> **Repo:** <https://github.com/katrate/katset>
 
 ## Key decisions
 
